@@ -16,7 +16,9 @@ Functions are created to\
     2. Subtract one from all responses to achieve 0 index on responses\
     3. Inverse code responses\
     4. Binarize responses based on response wanted\
-    5. Get max response from subset of items\
+    5. Get max response from subset of items
+> [!NOTE]
+> Not all functions (if any) will be used on any one survey
 
 Surveys included in this study:
 * apath: Apathy Evaluation Scale (18 questions)
