@@ -73,4 +73,5 @@ Input files: Full data set from first full survey, full data set from second ful
 
   
 > example_data/HARMONYProlificSequenceVersion_DataDictionary_2026-01-03-rev_for_seq3+.csv
+
 This folder contains a data dictionary with all questions used in each survey. File formatted for RedCAP survey distribution.
