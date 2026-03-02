@@ -17,6 +17,7 @@ Functions are created to\
     3. Inverse code responses\
     4. Binarize responses based on response wanted\
     5. Get max response from subset of items
+
 > [!NOTE]
 > Not all functions (if any) will be used on any one survey
 
