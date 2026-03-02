@@ -59,8 +59,8 @@ This file contains code to create graphs for
 * Age x Time_taken scatter plot
 * Overall severity distribution plot
 * Attention Check Questions
-* Reliability of PHQ10 from screener -> survey  by question
-* Reliability of PHQ10 from screener -> survey  by score
+* Reliability of PHQ10 from screener -> question  by question
+* Reliability of PHQ10 from screener -> scores
 
 > test_retest.R
 
