@@ -45,6 +45,7 @@ Surveys included in this study:
 * wsas: Work and Social Adjustement Scale (5 questions)
 * whoqolbref: WHO Quality of Life BREF (26 questions)
 * phq10: Patient Health Questionaire 9 +1 (10 questions)\
+  
 Additionally, three attention check questions were employed in addition to four questions asking about medications and diagnoses.
 
 > harmony_exploration.R
