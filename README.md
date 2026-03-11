@@ -2,25 +2,6 @@
 
 This repo contains R files pertaining to the coding of depression survey data collected via the online platform Prolfic. 
 
-## Overview of files
-> harmony_screening_scores.R
-
-The PHQ10 survey was used as a screener in this study. This file contains code for thresholding participants based on PHQ10 scores. The cutoff used here is scores of 5 or higher.
-
-> harmony_sumary_coding.R
-
-This file contains code to calculate summary scores of the surveys used in this study. Each survey has different summary coding methods.
-
-Functions are created to\
-    1. Sum responses together\
-    2. Subtract one from all responses to achieve 0 index on responses\
-    3. Inverse code responses\
-    4. Binarize responses based on response wanted\
-    5. Get max response from subset of items
-
-> [!NOTE]
-> Not all functions (if any) will be used on any one survey
-
 Surveys included in this study:
 * apath: Apathy Evaluation Scale (18 questions)
 * bisbas: Behavioral Inhibition/Activation Scale (24 questions)
@@ -47,6 +28,25 @@ Surveys included in this study:
 * phq10: Patient Health Questionaire 9 +1 (10 questions)\
   
 Additionally, three attention check questions were employed in addition to four questions asking about medications and diagnoses.
+
+## Overview of files
+> harmony_screening_scores.R
+
+The PHQ10 survey was used as a screener in this study. This file contains code for thresholding participants based on PHQ10 scores. The cutoff used here is scores of 5 or higher.
+
+> harmony_sumary_coding.R
+
+This file contains code to calculate summary scores of the surveys used in this study. Each survey has different summary coding methods.
+
+Functions are created to\
+    1. Sum responses together\
+    2. Subtract one from all responses to achieve 0 index on responses\
+    3. Inverse code responses\
+    4. Binarize responses based on response wanted\
+    5. Get max response from subset of items
+
+> [!NOTE]
+> Not all functions (if any) will be used on any one survey
 
 > harmony_exploration.R
 
